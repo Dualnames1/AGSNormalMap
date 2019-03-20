@@ -1,0 +1,8 @@
+#!/bin/sh
+
+if test $(uname -m) = x86_64
+  then
+    ALLEGRO_MODULES="./lib64" "./ags64" "$@" "./"
+  else
+    ALLEGRO_MODULES="./lib32" "./ags32" "$@" "./"
+fi
