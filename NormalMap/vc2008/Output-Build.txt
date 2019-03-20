@@ -1,0 +1,12 @@
+1>------ Build started: Project: AGSNormalMap, Configuration: Release Win32 ------
+1>Compiling...
+1>normalmap.cpp
+1>..\normalmap.cpp(415) : warning C4101: 'na' : unreferenced local variable
+1>Linking...
+1>   Creating library C:\Bibucket\Normal Map\NormalMap\vc2008\Release\AGSNormalMap.lib and object C:\Bibucket\Normal Map\NormalMap\vc2008\Release\AGSNormalMap.exp
+1>Generating code
+1>Finished generating code
+1>Embedding manifest...
+1>Build log was saved at "file://c:\Bibucket\Normal Map\NormalMap\vc2008\Release\BuildLog.htm"
+1>AGSNormalMap - 0 error(s), 1 warning(s)
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

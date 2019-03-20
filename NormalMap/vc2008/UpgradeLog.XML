@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="AGSflashlight">
+</Property><Property Name="Solution File" Value="C:\Users\Dualnames\Desktop\BLEND\ags-master\Plugins\AGSflashlight\vc2008\AGSflashlight.sln">
+</Property><Property Name="Date" Value="Δευτέρα, 11 Φεβρουαρίου 2019">
+</Property><Property Name="Time" Value="23:29 μμ">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="AGSflashlight.sln" Description="File successfully backed up as C:\Users\Dualnames\Desktop\BLEND\ags-master\Plugins\AGSflashlight\vc2008\AGSflashlight.sln.old">
+</Event><Event ErrorLevel="0" Project="AGSflashlight" Source="AGSflashlight.vcproj" Description="Converting project file 'C:\Users\Dualnames\Desktop\BLEND\ags-master\Plugins\AGSflashlight\vc2008\AGSflashlight.vcproj'.">
+</Event><Event ErrorLevel="1" Project="AGSflashlight" Source="AGSflashlight.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="AGSflashlight" Source="AGSflashlight.vcproj" Description="Done converting to new project file 'C:\Users\Dualnames\Desktop\BLEND\ags-master\Plugins\AGSflashlight\vc2008\AGSflashlight.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="AGSflashlight" Source="AGSflashlight.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="AGSflashlight.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="AGSflashlight.sln" Description="Converted">
+</Event></UpgradeLog>
